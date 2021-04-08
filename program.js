@@ -33,5 +33,5 @@ function getRandomMessage(){
     }
     console.log(wholeMessage);
 }
-
+///fdgdg
 console.log('Hello Programmer!')
