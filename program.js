@@ -9,7 +9,8 @@ function getRandomMessage(){
     const msgPartThree = ['loves when you talk to him!', 'loves you!', 'is with you!', 'is everywhere!', 'is the best!'];
 
     console.log(`${msgPartOne[numOne]} ${msgPartTwo[numTwo]} ${msgPartThree[numThree]}`)
+    return `${msgPartOne[numOne]} ${msgPartTwo[numTwo]} ${msgPartThree[numThree]}`;
 
 }
 
-getRandomMessage();
+//getRandomMessage();
